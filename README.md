@@ -46,8 +46,8 @@ If you use this code or dataset, please cite the following:
 **Title:** *DivControlNN: ML-Based Surrogate for Divertor Detachment Control*  
 **Year:** 2025  
 **Publisher:** Zenodo  
-**DOI:** [10.5281/zenodo.TBD1](https://doi.org/10.5281/zenodo.TBD1)  
-**URL:** [https://github.com/xxu/DivControlNN](https://github.com/xxu/DivControlNN)
+**DOI:** [10.5281/zenodo.15749609](https://doi.org/10.5281/zenodo.15749609)  
+**URL:** [https://github.com/xxu/DivControlNN](https://github.com/LLNL-FusionML/DivControlNN)
 
 ### Dataset
 

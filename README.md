@@ -77,7 +77,15 @@ We follow a two-tier release strategy:
 - **Dataset (KSTAR_UEDGE_Dataset)**  
   Published on Zenodo with an assigned DOI → Referenced within the GitHub repository.
 
-## Badges (to be added after DOI assignment)
+## Badges
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15749609.svg)](https://doi.org/10.5281/zenodo.15749609))
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<!--
+[![DOI for Code](https://zenodo.org/badge/DOI/10.5281/zenodo.TBD1.svg)](https://doi.org/10.5281/zenodo.TBD1)
+[![DOI for Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.TBD2.svg)](https://doi.org/10.5281/zenodo.TBD2)
+-->
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
